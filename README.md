@@ -13,7 +13,7 @@ https://docs.microsoft.com/dotnet/architecture/modern-web-apps-azure/
 
 [<img src="https://dotnet.microsoft.com/blob-assets/images/e-books/aspnet.png" height="300" />](https://dotnet.microsoft.com/learn/web/aspnet-architecture)
 
-The **eShopOnWeb** sample is related to the [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) sample application which, in that case, focuses on a microservices/containers-based application architecture. However, **eShopOnWeb** is much simpler in regards to its current functionality and focuses on traditional Web Application Development with a single deployment.
+The **eShopOnWeb** sample is related to the application which, in that case, focuses on a microservices/containers-based application architecture. However, **eShopOnWeb** is much simpler in regards to its current functionality and focuses on traditional Web Application Development with a single deployment.
 
 The goal for this sample is to demonstrate some of the principles and patterns described in the [eBook](https://aka.ms/webappebook). It is not meant to be an eCommerce reference application, and as such it does not implement many features that would be obvious and/or essential to a real eCommerce application.
 
@@ -140,7 +140,7 @@ This project includes a `.devcontainer` folder with a [dev container configurati
 
 You can use the dev container to build and run the app without needing to install any of its tools locally! You can work in GitHub Codespaces or the VS Code Dev Containers extension.
 
-Learn more about using the dev container in its [readme](/.devcontainer/devcontainerreadme.md).
+Learn more about using the dev container.
 
 ## Running the sample using Docker
 
