@@ -25,7 +25,7 @@ The goal for this sample is to demonstrate some of the principles and patterns-d
 
 - Introduction
 - Characteristics of-Modern Web Applications
-- Choosing Between Traditional Web Apps and SPAs
+- Choosing Between Traditional Web Apps and-SPAs
 - Architectural Principles
 - Common Web Application Architectures
 - Common Client Side Technologies
